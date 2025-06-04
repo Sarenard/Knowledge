@@ -1,6 +1,5 @@
 ---
 type: Définition
-source: test
 ---
 
 # Partition
@@ -10,17 +9,17 @@ Soit $n$ un entier naturel. Une partition de $n$ est une suite décroissante d'e
 > **Proposition.**  
 > Les entiers $\lambda_i$ sont nuls à partir d’un certain rang.
 
-> **Définition.**
+> **Définition.**  
 > On appelle longueur de $\underline \lambda$ le plus grand entier $l$ tel que $\lambda_l$ est non nul.
 
-> **Définition.**
+> **Définition.**  
 > On appelle partition $p$-adique de l'entier $n$ une partition de $n$ où tout les $\lambda_i$ sont des puissances de $p$ (Comprenant également 1)
 
-> **Théorème.**
+> **Théorème.**  
 > Soit $n$ un entier naturel, alors les partitions $p$-adiques de $n$ forment un treillis pour l'ordre du raffinement
 > 
 > Source: [Annexe A Thèse Troesch](http://alain.troesch.free.fr/These/troesch_these.pdf)
 
-> **Exemple.**
+> **Exemple.**  
 > ![Treillis des partitions 2-adiques de n, pour n = 14 et 16](treillis.png)
 
