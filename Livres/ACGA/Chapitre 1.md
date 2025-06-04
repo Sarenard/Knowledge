@@ -2,7 +2,7 @@
 type: Chapitre
 ---
 
-# Chapitre 1
+# ACGA Chapitre 1
 
 Tout les anneaux considérés seront commutatifs et unitaires.
 On fixe alors R un tel anneau, et $n \in \mathbb N$.
@@ -15,15 +15,7 @@ On fixe alors R un tel anneau, et $n \in \mathbb N$.
 
 #### Enoncé :
 
-1) Montrer que si $A$ est une [[Algèbre|R-algèbre]], alors l'application  
-$$
-R \to A, \quad c \mapsto c \cdot 1_A
-$$
-est un morphisme d'anneaux. Réciproquement, montrer que si $u : A \to B$ est un morphisme d'anneaux, alors la loi  
-$$
-(f, g) \mapsto u(f) \cdot g
-$$
-munit $B$ d'une structure d'[[Algèbre|A-algèbre]].
+1) Montrer que si $A$ est une [[Algèbre|R-algèbre]], alors l'application $R \to A, \quad c \mapsto c \cdot 1_A$ est un morphisme d'anneaux. Réciproquement, montrer que si $u : A \to B$ est un morphisme d'anneaux, alors la loi $(f, g) \mapsto u(f) \cdot g$ munit $B$ d'une structure d'[[Algèbre|A-algèbre]].
 
 2) Montrer que si $k$ est un corps et $A$ est une [[Algèbre|k-algèbre]], alors $A$ est un espace vectoriel sur $k$ et la multiplication est bilinéaire. Réciproquement, montrer que si $A$ est un espace vectoriel sur $k$ et $b : A \times A \to A$ est une application bilinéaire qui définit une loi d'anneau, alors $A$ est une [[Algèbre|k-algèbre]].
 
