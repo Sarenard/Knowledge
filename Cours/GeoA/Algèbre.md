@@ -1,3 +1,7 @@
+---
+type: Définition
+---
+
 # Algèbre
 
 Soit $R$ un anneau commutatif et unitaire.
