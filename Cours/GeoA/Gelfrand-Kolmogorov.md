@@ -7,7 +7,7 @@ type: Théorème
 On associe à chaque espace topologique $X$ la $\mathbb R$-algèbre $C(X) = C^0(X, \mathbb R)$. Alors, tout point $x \in X$ donne naissance à un idéal $m_x = \{f \in C(X) \quad f(x) = 0\}$, qui est maximal (car $C(X)/m_x \ \cong R$)
 
 On note $Spm(C(X))$ l'ensemble des idéaux maximaux en question, appelé spectre maximal de C(X). On peut le munir de la tpologie engendrée par les 
-$$D(f) = \{m \in C(T) \quad f \not \in m\}$$
+$$D(f) = \{m \in Spm(C(X)) \quad f \not \in m\}$$
 
 > **Théorème.**
 > Si $X$ est compact, l'application

@@ -25,3 +25,6 @@ $$I(V) = \{f\in k[t_1, \dots, t_n] \quad f_{|V} = 0\}$$
 > Soit $k$ un corps algébriquement clos. Pour tout idéal $I \subset k[t_1, \dots, t_n]$ on a
 > $$I(V(I)) = \sqrt{I}$$
 > Ainsi, les applications $I \mapsto V(I)$ et $V \mapsto I(V)$ induisent une bijection décroissante entre l'ensemble des sous ensembles algébriques de $\mathbb A_k^n$ et l'ensemble des idéaux radicaux de $k[t_1, \dots, t_n]$.
+
+En fait, le Nullstellensatz entraine que les idéaux maximaux sont tous de la forme
+$$I = (t_1-a_1, \dots, t_n-a_n)$$
