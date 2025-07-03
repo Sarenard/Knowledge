@@ -9,4 +9,5 @@ Le [template](https://github.com/foambubble/foam-template) de l'extention Foam.
 - Foam vscode
 - Markdown all at once
 - Prettier vscode
-- 
+
+Pour ouvrir la carte : `Ctrl Shift P` -> `Open Graph`
