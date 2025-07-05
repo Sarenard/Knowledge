@@ -4,7 +4,7 @@ type: Livre
 
 # Algèbre commutative et géométrie algébrique
 
-# [[Chapitre 1|Chapitre 1 : Polynômes]]
+# [[ACGA Chapitre 1|Chapitre 1 : Polynômes]]
 
 Status : En cours
 
